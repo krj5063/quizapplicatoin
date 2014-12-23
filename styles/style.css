@@ -1,0 +1,45 @@
+/* background image */
+body {    
+    background-image: url("Dollarphotoclub_64818961.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 150%;
+    color: black;
+}
+
+.mainContent {
+    width: 56.25em;
+    height: 37.5em;
+    margin-left: auto;
+    margin-right: auto;
+    background:  rgba(0,0,0,0.1);
+    margin-top: 5em; 
+}
+
+.quizHeader {
+        font-family: 'Just Another Hand', sans-serif;
+        color: black;
+        font-size: 4em;
+        text-align: center;
+        padding-top: .3em; 
+}
+
+#test {
+        font-family: 'Just Another Hand', sans-serif;
+        color: black;
+        font-size: 2.5em;
+        text-align: left;
+        height: 8.9em;
+        margin-top: .5em;
+        width: 12.25em;
+        margin-right: auto;
+        margin-left: auto;
+}
+
+.quizBottom {
+        font-family: 'Just Another Hand', sans-serif;
+        color: black;
+        font-size: 4em;
+        text-align: center;
+
+}
