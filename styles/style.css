@@ -36,7 +36,7 @@ body {
         margin-left: auto;
 }
 
-.quizBottom {
+#quizBottom {
         font-family: 'Just Another Hand', sans-serif;
         color: black;
         font-size: 4em;
